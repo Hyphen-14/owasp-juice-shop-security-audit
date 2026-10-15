@@ -1,0 +1,24 @@
+# Python virtual environments & cache
+.venv/
+env/
+venv/
+__pycache__/
+*.pyc
+
+# MkDocs build output
+site/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE files
+.vscode/
+.idea/
+
+# Local secrets or scratch files
+*.log
+.env
+scratch/
+

@@ -1,0 +1,97 @@
+site_name: OWASP Juice Shop AppSec Portfolio
+site_url: https://hyphen-14.github.io/juice-shop-appsec-portfolio/
+site_author: Hyphen-14
+site_description: An industry-grade Application Security (AppSec) portfolio and white-box vulnerability audit covering all 100+ OWASP Juice Shop challenges.
+repo_name: Hyphen-14/juice-shop-appsec-portfolio
+repo_url: https://github.com/Hyphen-14/juice-shop-appsec-portfolio
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  language: en
+  palette:
+    # Scheme 1: Dark Mode (Default for Cyber / SecOps aesthetic)
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: blue grey
+      accent: cyan
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+    # Scheme 2: Light Mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: blue grey
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.code.copy
+    - content.code.annotate
+    - content.tabs.link
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - tables
+  - attr_list
+  - def_list
+  - toc:
+      permalink: true
+
+nav:
+  - Overview: index.md
+  - Methodology:
+      - Testing Framework (OWASP WSTG): methodology/testing-framework.md
+      - Lab Environment Architecture: methodology/lab-environment.md
+  - Progress & Metrics:
+      - Executive Scorecard: progress/dashboard.md
+      - OWASP Top 10 2021 Matrix: progress/owasp-matrix.md
+  - Challenge Write-ups:
+      - Catalog & Taxonomy: challenges/index.md
+      - AppSec Report Template: challenges/templates/writeup-template.md
+      - Tier 1 (1-Star Basics): challenges/tier-1/index.md
+      - Tier 2 (2-Star Intermediate): challenges/tier-2/index.md
+      - Tier 3 (3-Star Advanced): challenges/tier-3/index.md
+      - Tier 4 (4-Star Complex): challenges/tier-4/index.md
+      - Tier 5 (5-Star Hard): challenges/tier-5/index.md
+      - Tier 6 (6-Star Expert): challenges/tier-6/index.md
+  - Secure Coding Guide:
+      - Node.js, Express & Angular Defense: secure-coding/node-express-angular.md
+  - Author: about.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/Hyphen-14
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com
+
