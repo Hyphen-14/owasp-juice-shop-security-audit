@@ -157,3 +157,4 @@ const routes: Routes = [
 - **CWE Definition:** [CWE-200: Exposure of Sensitive Information to an Unauthorized Actor](https://cwe.mitre.org/data/definitions/200.html)
 - **Angular Documentation:** [Controlling Access with Route Guards](https://angular.io/guide/router-tutorial-toh#milestone-5-route-guards)
 - **OWASP Cheat Sheet:** [Authorization Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Authorization_Cheat_Sheet.html)
+

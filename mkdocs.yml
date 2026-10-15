@@ -80,7 +80,16 @@ nav:
       - AppSec Report Template: challenges/templates/writeup-template.md
       - Tier 1 (1-Star Basics):
           - Overview: challenges/tier-1/index.md
-          - CH-T1-01 Score Board: challenges/tier-1/score-board.md
+          - CH-T1-01 Score Board Discovery: challenges/tier-1/score-board.md
+          - CH-T1-02 Error Handling Leak: challenges/tier-1/error-handling.md
+          - CH-T1-03 Confidential Document: challenges/tier-1/confidential-document.md
+          - CH-T1-04 DOM XSS: challenges/tier-1/dom-xss.md
+          - CH-T1-05 Bonus Payload: challenges/tier-1/bonus-payload.md
+          - CH-T1-06 Repetitive Registration: challenges/tier-1/repetitive-registration.md
+          - CH-T1-07 Zero Stars Feedback: challenges/tier-1/zero-stars.md
+          - CH-T1-08 Privacy Policy: challenges/tier-1/privacy-policy.md
+          - CH-T1-09 Outdated Whitelist: challenges/tier-1/outdated-whitelist.md
+          - CH-T1-10 Exposed Metrics: challenges/tier-1/exposed-metrics.md
       - Tier 2 (2-Star Intermediate): challenges/tier-2/index.md
       - Tier 3 (3-Star Advanced): challenges/tier-3/index.md
       - Tier 4 (4-Star Complex): challenges/tier-4/index.md

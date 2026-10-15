@@ -9,15 +9,16 @@ Tier 1 challenges focus on **information gathering, client-side application arch
 | Challenge Name | Category | OWASP Top 10 | Status | Link |
 | :--- | :--- | :--- | :---: | :---: |
 | **Score Board Discovery** | Miscellaneous | A05: Security Misconfig | ✅ Completed | [Read Write-up](score-board.md) |
-| **Error Handling Leak** | Security Misconfiguration | A05: Security Misconfig | ⏳ Planned | Planned |
-| **Confidential Document Exposure** | Sensitive Data Exposure | A01: Broken Access Control | ⏳ Planned | Planned |
-| **DOM XSS** | Cross-Site Scripting (XSS) | A03: Injection | ⏳ Planned | Planned |
-| **Repetitive Registration** | Improper Input Validation | A04: Insecure Design | ⏳ Planned | Planned |
-| **Zero Stars Feedback** | Improper Input Validation | A04: Insecure Design | ⏳ Planned | Planned |
-| **Privacy Policy Inspection** | Miscellaneous | A05: Security Misconfig | ⏳ Planned | Planned |
-| **Outdated Whitelist** | Unvalidated Redirects | A01: Broken Access Control | ⏳ Planned | Planned |
-| **Mass Assignment (Bonus Payload)** | Vulnerable Components | A06: Vulnerable Components | ⏳ Planned | Planned |
-| **Bullshit Code Disclosure** | Sensitive Data Exposure | A01: Broken Access Control | ⏳ Planned | Planned |
+| **Error Handling Leak** | Security Misconfiguration | A05: Security Misconfig | ✅ Completed | [Read Write-up](error-handling.md) |
+| **Confidential Document Exposure** | Sensitive Data Exposure | A01: Broken Access Control | ✅ Completed | [Read Write-up](confidential-document.md) |
+| **DOM XSS** | Cross-Site Scripting (XSS) | A03: Injection | ✅ Completed | [Read Write-up](dom-xss.md) |
+| **Bonus Payload** | Cross-Site Scripting (XSS) | A03: Injection | ✅ Completed | [Read Write-up](bonus-payload.md) |
+| **Repetitive Registration** | Improper Input Validation | A04: Insecure Design | ✅ Completed | [Read Write-up](repetitive-registration.md) |
+| **Zero Stars Feedback** | Improper Input Validation | A04: Insecure Design | ✅ Completed | [Read Write-up](zero-stars.md) |
+| **Privacy Policy Inspection** | Miscellaneous | A05: Security Misconfig | ✅ Completed | [Read Write-up](privacy-policy.md) |
+| **Outdated Whitelist** | Unvalidated Redirects | A01: Broken Access Control | ✅ Completed | [Read Write-up](outdated-whitelist.md) |
+| **Exposed Metrics** | Security Misconfiguration | A05: Security Misconfig | ✅ Completed | [Read Write-up](exposed-metrics.md) |
+| **Bully Chatbot** | Logic Flaw / Prompt Injection | A04: Insecure Design | ⏳ Skipped (API Key) | Skipped |
 
 ---
 

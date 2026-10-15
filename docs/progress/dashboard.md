@@ -8,8 +8,8 @@ Real-time tracking of vulnerability discovery, root-cause code audit, and remedi
 
 | Metric | Completed | Total | Percentage |
 | :--- | :---: | :---: | :---: |
-| **All Challenges** | **1** | **102** | **1.0%** |
-| **Tier 1 (★☆☆☆☆☆)** | 1 | 15 | 6.7% |
+| **All Challenges** | **10** | **102** | **9.8%** |
+| **Tier 1 (★☆☆☆☆☆)** | 10 | 15 | 66.7% |
 | **Tier 2 (★★☆☆☆☆)** | 0 | 18 | 0% |
 | **Tier 3 (★★★☆☆☆)** | 0 | 23 | 0% |
 | **Tier 4 (★★★★☆☆)** | 0 | 22 | 0% |
@@ -23,14 +23,15 @@ Real-time tracking of vulnerability discovery, root-cause code audit, and remedi
 | Status | Challenge Name | Category | OWASP 2021 | CWE | Write-up |
 | :---: | :--- | :--- | :--- | :--- | :---: |
 | ✅ Completed | Score Board Discovery | Miscellaneous | A05: Security Misconfig | CWE-200 | [View Report](../challenges/tier-1/score-board.md) |
-| ⏳ Planned | Error Handling Leak | Security Misconfig | A05: Security Misconfig | CWE-209 | [View Doc](../challenges/tier-1/index.md) |
-| ⏳ Planned | Confidential Document | Sensitive Data Exposure | A01: Broken Access Control | CWE-552 | [View Doc](../challenges/tier-1/index.md) |
-| ⏳ Planned | DOM XSS | XSS | A03: Injection | CWE-79 | [View Doc](../challenges/tier-1/index.md) |
-| ⏳ Planned | Repetitive Registration | Improper Input Validation | A04: Insecure Design | CWE-20 | [View Doc](../challenges/tier-1/index.md) |
-| ⏳ Planned | Zero Stars Feedback | Improper Input Validation | A04: Insecure Design | CWE-20 | [View Doc](../challenges/tier-1/index.md) |
-| ⏳ Planned | Privacy Policy Inspection | Miscellaneous | A05: Security Misconfig | CWE-200 | [View Doc](../challenges/tier-1/index.md) |
-| ⏳ Planned | Outdated Whitelist | Unvalidated Redirects | A01: Broken Access Control | CWE-601 | [View Doc](../challenges/tier-1/index.md) |
-| ⏳ Planned | Mass Assignment (Bonus) | Vulnerable Components | A06: Vulnerable Components | CWE-915 | [View Doc](../challenges/tier-1/index.md) |
+| ✅ Completed | Error Handling Leak | Security Misconfig | A05: Security Misconfig | CWE-209 | [View Report](../challenges/tier-1/error-handling.md) |
+| ✅ Completed | Confidential Document | Sensitive Data Exposure | A01: Broken Access Control | CWE-552 | [View Report](../challenges/tier-1/confidential-document.md) |
+| ✅ Completed | DOM XSS | XSS | A03: Injection | CWE-79 | [View Report](../challenges/tier-1/dom-xss.md) |
+| ✅ Completed | Bonus Payload | XSS | A03: Injection | CWE-79 | [View Report](../challenges/tier-1/bonus-payload.md) |
+| ✅ Completed | Repetitive Registration | Improper Input Validation | A04: Insecure Design | CWE-602 | [View Report](../challenges/tier-1/repetitive-registration.md) |
+| ✅ Completed | Zero Stars Feedback | Improper Input Validation | A04: Insecure Design | CWE-20 | [View Report](../challenges/tier-1/zero-stars.md) |
+| ✅ Completed | Privacy Policy Inspection | Miscellaneous | A05: Security Misconfig | CWE-200 | [View Report](../challenges/tier-1/privacy-policy.md) |
+| ✅ Completed | Outdated Whitelist | Unvalidated Redirects | A01: Broken Access Control | CWE-601 | [View Report](../challenges/tier-1/outdated-whitelist.md) |
+| ✅ Completed | Exposed Metrics | Security Misconfig | A05: Security Misconfig | CWE-200 | [View Report](../challenges/tier-1/exposed-metrics.md) |
 
 ---
 
