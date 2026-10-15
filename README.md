@@ -1,14 +1,14 @@
 # 🛡️ OWASP Juice Shop: Complete Application Security (AppSec) Audit & Portfolio
 
-[![Documentation Status](https://img.shields.io/badge/Docs-GitHub%20Pages-blue?style=for-the-badge&logo=github)](https://hyphen-14.github.io/juice-shop-appsec-portfolio/)
-[![Challenges Completed](https://img.shields.io/badge/Progress-0%20%2F%20102%20Solved-orange?style=for-the-badge&logo=target)](https://hyphen-14.github.io/juice-shop-appsec-portfolio/progress/dashboard/)
-[![OWASP Coverage](https://img.shields.io/badge/OWASP%20Top%2010-2021%20Mapped-success?style=for-the-badge&logo=owasp)](https://hyphen-14.github.io/juice-shop-appsec-portfolio/progress/owasp-matrix/)
-[![Testing Standard](https://img.shields.io/badge/Methodology-OWASP%20WSTG%20v4.2-informational?style=for-the-badge)](https://hyphen-14.github.io/juice-shop-appsec-portfolio/methodology/testing-framework/)
+[![Documentation Status](https://img.shields.io/badge/Docs-GitHub%20Pages-blue?style=for-the-badge&logo=github)](https://hyphen-14.github.io/owasp-juice-shop-security-audit/)
+[![Challenges Completed](https://img.shields.io/badge/Progress-0%20%2F%20102%20Solved-orange?style=for-the-badge&logo=target)](https://hyphen-14.github.io/owasp-juice-shop-security-audit/progress/dashboard/)
+[![OWASP Coverage](https://img.shields.io/badge/OWASP%20Top%2010-2021%20Mapped-success?style=for-the-badge&logo=owasp)](https://hyphen-14.github.io/owasp-juice-shop-security-audit/progress/owasp-matrix/)
+[![Testing Standard](https://img.shields.io/badge/Methodology-OWASP%20WSTG%20v4.2-informational?style=for-the-badge)](https://hyphen-14.github.io/owasp-juice-shop-security-audit/methodology/testing-framework/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 
 > **An enterprise-grade web application penetration testing portfolio, vulnerability research catalog, and white-box source code audit covering all 100+ challenges in OWASP Juice Shop (Tiers 1★ through 6★).**
 
-👉 **[Explore the Live Interactive Documentation Site](https://hyphen-14.github.io/juice-shop-appsec-portfolio/)**
+👉 **[Explore the Live Interactive Documentation Site](https://hyphen-14.github.io/owasp-juice-shop-security-audit/)**
 
 ---
 
@@ -85,8 +85,8 @@ This documentation is built using [MkDocs Material](https://squidfunk.github.io/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Hyphen-14/juice-shop-appsec-portfolio.git
-   cd juice-shop-appsec-portfolio
+   git clone https://github.com/Hyphen-14/owasp-juice-shop-security-audit.git
+   cd owasp-juice-shop-security-audit
    ```
 
 2. **Install Python dependencies:**
@@ -106,7 +106,7 @@ This documentation is built using [MkDocs Material](https://squidfunk.github.io/
 
 - **Author:** [Hyphen-14](https://github.com/Hyphen-14)
 - **Specialization:** Application Security (AppSec) | Web Penetration Testing | Vulnerability Research
-- **Live Site:** [https://hyphen-14.github.io/juice-shop-appsec-portfolio/](https://hyphen-14.github.io/juice-shop-appsec-portfolio/)
+- **Live Site:** [https://hyphen-14.github.io/owasp-juice-shop-security-audit/](https://hyphen-14.github.io/owasp-juice-shop-security-audit/)
 
 ---
 

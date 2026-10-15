@@ -1,9 +1,9 @@
 site_name: OWASP Juice Shop AppSec Portfolio
-site_url: https://hyphen-14.github.io/juice-shop-appsec-portfolio/
+site_url: https://hyphen-14.github.io/owasp-juice-shop-security-audit/
 site_author: Hyphen-14
 site_description: An industry-grade Application Security (AppSec) portfolio and white-box vulnerability audit covering all 100+ OWASP Juice Shop challenges.
-repo_name: Hyphen-14/juice-shop-appsec-portfolio
-repo_url: https://github.com/Hyphen-14/juice-shop-appsec-portfolio
+repo_name: Hyphen-14/owasp-juice-shop-security-audit
+repo_url: https://github.com/Hyphen-14/owasp-juice-shop-security-audit
 edit_uri: edit/main/docs/
 
 theme:
