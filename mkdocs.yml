@@ -78,7 +78,9 @@ nav:
   - Challenge Write-ups:
       - Catalog & Taxonomy: challenges/index.md
       - AppSec Report Template: challenges/templates/writeup-template.md
-      - Tier 1 (1-Star Basics): challenges/tier-1/index.md
+      - Tier 1 (1-Star Basics):
+          - Overview: challenges/tier-1/index.md
+          - CH-T1-01 Score Board: challenges/tier-1/score-board.md
       - Tier 2 (2-Star Intermediate): challenges/tier-2/index.md
       - Tier 3 (3-Star Advanced): challenges/tier-3/index.md
       - Tier 4 (4-Star Complex): challenges/tier-4/index.md

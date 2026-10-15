@@ -8,8 +8,8 @@ Real-time tracking of vulnerability discovery, root-cause code audit, and remedi
 
 | Metric | Completed | Total | Percentage |
 | :--- | :---: | :---: | :---: |
-| **All Challenges** | **0** | **102** | **0%** |
-| **Tier 1 (★☆☆☆☆☆)** | 0 | 15 | 0% |
+| **All Challenges** | **1** | **102** | **1.0%** |
+| **Tier 1 (★☆☆☆☆☆)** | 1 | 15 | 6.7% |
 | **Tier 2 (★★☆☆☆☆)** | 0 | 18 | 0% |
 | **Tier 3 (★★★☆☆☆)** | 0 | 23 | 0% |
 | **Tier 4 (★★★★☆☆)** | 0 | 22 | 0% |
@@ -22,7 +22,7 @@ Real-time tracking of vulnerability discovery, root-cause code audit, and remedi
 
 | Status | Challenge Name | Category | OWASP 2021 | CWE | Write-up |
 | :---: | :--- | :--- | :--- | :--- | :---: |
-| ⏳ Planned | Score Board Discovery | Miscellaneous | A05: Security Misconfig | CWE-200 | [View Doc](../challenges/tier-1/index.md) |
+| ✅ Completed | Score Board Discovery | Miscellaneous | A05: Security Misconfig | CWE-200 | [View Report](../challenges/tier-1/score-board.md) |
 | ⏳ Planned | Error Handling Leak | Security Misconfig | A05: Security Misconfig | CWE-209 | [View Doc](../challenges/tier-1/index.md) |
 | ⏳ Planned | Confidential Document | Sensitive Data Exposure | A01: Broken Access Control | CWE-552 | [View Doc](../challenges/tier-1/index.md) |
 | ⏳ Planned | DOM XSS | XSS | A03: Injection | CWE-79 | [View Doc](../challenges/tier-1/index.md) |

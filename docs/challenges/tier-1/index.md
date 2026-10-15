@@ -8,7 +8,7 @@ Tier 1 challenges focus on **information gathering, client-side application arch
 
 | Challenge Name | Category | OWASP Top 10 | Status | Link |
 | :--- | :--- | :--- | :---: | :---: |
-| **Score Board Discovery** | Miscellaneous | A05: Security Misconfig | ⏳ In Progress | Planned |
+| **Score Board Discovery** | Miscellaneous | A05: Security Misconfig | ✅ Completed | [Read Write-up](score-board.md) |
 | **Error Handling Leak** | Security Misconfiguration | A05: Security Misconfig | ⏳ Planned | Planned |
 | **Confidential Document Exposure** | Sensitive Data Exposure | A01: Broken Access Control | ⏳ Planned | Planned |
 | **DOM XSS** | Cross-Site Scripting (XSS) | A03: Injection | ⏳ Planned | Planned |
