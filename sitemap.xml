@@ -21,7 +21,43 @@
          <lastmod>2026-10-15</lastmod>
     </url>
     <url>
+         <loc>https://hyphen-14.github.io/owasp-juice-shop-security-audit/challenges/tier-1/bonus-payload/</loc>
+         <lastmod>2026-10-15</lastmod>
+    </url>
+    <url>
+         <loc>https://hyphen-14.github.io/owasp-juice-shop-security-audit/challenges/tier-1/confidential-document/</loc>
+         <lastmod>2026-10-15</lastmod>
+    </url>
+    <url>
+         <loc>https://hyphen-14.github.io/owasp-juice-shop-security-audit/challenges/tier-1/dom-xss/</loc>
+         <lastmod>2026-10-15</lastmod>
+    </url>
+    <url>
+         <loc>https://hyphen-14.github.io/owasp-juice-shop-security-audit/challenges/tier-1/error-handling/</loc>
+         <lastmod>2026-10-15</lastmod>
+    </url>
+    <url>
+         <loc>https://hyphen-14.github.io/owasp-juice-shop-security-audit/challenges/tier-1/exposed-metrics/</loc>
+         <lastmod>2026-10-15</lastmod>
+    </url>
+    <url>
+         <loc>https://hyphen-14.github.io/owasp-juice-shop-security-audit/challenges/tier-1/outdated-whitelist/</loc>
+         <lastmod>2026-10-15</lastmod>
+    </url>
+    <url>
+         <loc>https://hyphen-14.github.io/owasp-juice-shop-security-audit/challenges/tier-1/privacy-policy/</loc>
+         <lastmod>2026-10-15</lastmod>
+    </url>
+    <url>
+         <loc>https://hyphen-14.github.io/owasp-juice-shop-security-audit/challenges/tier-1/repetitive-registration/</loc>
+         <lastmod>2026-10-15</lastmod>
+    </url>
+    <url>
          <loc>https://hyphen-14.github.io/owasp-juice-shop-security-audit/challenges/tier-1/score-board/</loc>
+         <lastmod>2026-10-15</lastmod>
+    </url>
+    <url>
+         <loc>https://hyphen-14.github.io/owasp-juice-shop-security-audit/challenges/tier-1/zero-stars/</loc>
          <lastmod>2026-10-15</lastmod>
     </url>
     <url>
