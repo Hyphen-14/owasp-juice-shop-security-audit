@@ -65,3 +65,4 @@ In this introductory challenge, the privacy policy route (`/#/privacy-security/p
 - **OWASP Top 10:2021:** [A05:2021 - Security Misconfiguration](https://owasp.org/Top10/A05_2021-Security_Misconfiguration/)
 - **CWE Definition:** [CWE-200: Exposure of Sensitive Information](https://cwe.mitre.org/data/definitions/200.html)
 - **GDPR Compliance Guide:** [GDPR Transparency and Privacy Notices](https://gdpr.eu/privacy-notice/)
+

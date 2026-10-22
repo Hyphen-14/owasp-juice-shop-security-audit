@@ -8,9 +8,9 @@ Real-time tracking of vulnerability discovery, root-cause code audit, and remedi
 
 | Metric | Completed | Total | Percentage |
 | :--- | :---: | :---: | :---: |
-| **All Challenges** | **10** | **102** | **9.8%** |
+| **All Challenges** | **11** | **102** | **10.8%** |
 | **Tier 1 (★☆☆☆☆☆)** | 10 | 15 | 66.7% |
-| **Tier 2 (★★☆☆☆☆)** | 0 | 18 | 0% |
+| **Tier 2 (★★☆☆☆☆)** | 1 | 18 | 5.6% |
 | **Tier 3 (★★★☆☆☆)** | 0 | 23 | 0% |
 | **Tier 4 (★★★★☆☆)** | 0 | 22 | 0% |
 | **Tier 5 (★★★★★☆)** | 0 | 16 | 0% |

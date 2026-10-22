@@ -126,3 +126,4 @@ Feedback.init({
 - **OWASP Top 10:2021:** [A04:2021 - Insecure Design](https://owasp.org/Top10/A04_2021-Insecure_Design/)
 - **CWE Definition:** [CWE-20: Improper Input Validation](https://cwe.mitre.org/data/definitions/20.html)
 - **Sequelize Docs:** [Model Validations](https://sequelize.org/docs/v6/core-concepts/validations-and-constraints/)
+

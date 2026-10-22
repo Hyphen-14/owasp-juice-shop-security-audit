@@ -1,7 +1,7 @@
 # 🛡️ OWASP Juice Shop: Complete Application Security (AppSec) Audit & Portfolio
 
 [![Documentation Status](https://img.shields.io/badge/Docs-GitHub%20Pages-blue?style=for-the-badge&logo=github)](https://hyphen-14.github.io/owasp-juice-shop-security-audit/)
-[![Challenges Completed](https://img.shields.io/badge/Progress-10%20%2F%20102%20Solved-orange?style=for-the-badge&logo=target)](https://hyphen-14.github.io/owasp-juice-shop-security-audit/progress/dashboard/)
+[![Challenges Completed](https://img.shields.io/badge/Progress-11%20%2F%20102%20Solved-orange?style=for-the-badge&logo=target)](https://hyphen-14.github.io/owasp-juice-shop-security-audit/progress/dashboard/)
 [![OWASP Coverage](https://img.shields.io/badge/OWASP%20Top%2010-2021%20Mapped-success?style=for-the-badge&logo=owasp)](https://hyphen-14.github.io/owasp-juice-shop-security-audit/progress/owasp-matrix/)
 [![Testing Standard](https://img.shields.io/badge/Methodology-OWASP%20WSTG%20v4.2-informational?style=for-the-badge)](https://hyphen-14.github.io/owasp-juice-shop-security-audit/methodology/testing-framework/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
@@ -53,12 +53,12 @@ graph LR
 | Tier | Difficulty | Challenges | Status | Key Topics |
 | :---: | :---: | :---: | :---: | :--- |
 | **Tier 1** | ★☆☆☆☆☆ | 10 / 15 | ⏳ In Progress (66.7%) | SPA Recon, Client-side Validation, Error Leakage, DOM XSS |
-| **Tier 2** | ★★☆☆☆☆ | 0 / 18 | ⏳ Planned | SQL Injection, Broken Authentication, IDOR, Password Security |
+| **Tier 2** | ★★☆☆☆☆ | 1 / 18 | ⏳ In Progress (5.6%) | SQL Injection, Broken Authentication, IDOR, Password Security |
 | **Tier 3** | ★★★☆☆☆ | 0 / 23 | ⏳ Planned | CSRF, XXE Data Exfiltration, Database Schema Enumeration |
 | **Tier 4** | ★★★★☆☆ | 0 / 22 | ⏳ Planned | JWT Tampering, SSRF, NoSQL Injection, Access Escalation |
 | **Tier 5** | ★★★★★☆ | 0 / 16 | ⏳ Planned | Insecure Deserialization, SSTI, Blind Injection |
 | **Tier 6** | ★★★★★★ | 0 / 8 | ⏳ Planned | RCE, Complex Multi-step Exploit Chains, Race Conditions |
-| **Total** | | **10 / 102** | **9.8% Completed** | Comprehensive OWASP Top 10 Coverage |
+| **Total** | | **11 / 102** | **10.8% Completed** | Comprehensive OWASP Top 10 Coverage |
 
 *Progress updates are tracked automatically via `python scripts/update_tracker.py`.*
 

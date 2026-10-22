@@ -149,3 +149,4 @@ app.use('/ftp', express.static('ftp'))
 - **OWASP Top 10:2021:** [A01:2021 - Broken Access Control](https://owasp.org/Top10/A01_2021-Broken_Access_Control/)
 - **CWE Definition:** [CWE-552: Files or Directories Accessible to External Parties](https://cwe.mitre.org/data/definitions/552.html)
 - **OWASP Cheat Sheet:** [File Storage and Access Control](https://cheatsheetseries.owasp.org/)
+

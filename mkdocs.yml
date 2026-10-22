@@ -90,7 +90,9 @@ nav:
           - CH-T1-08 Privacy Policy: challenges/tier-1/privacy-policy.md
           - CH-T1-09 Outdated Whitelist: challenges/tier-1/outdated-whitelist.md
           - CH-T1-10 Exposed Metrics: challenges/tier-1/exposed-metrics.md
-      - Tier 2 (2-Star Intermediate): challenges/tier-2/index.md
+      - Tier 2 (2-Star Intermediate):
+          - Overview: challenges/tier-2/index.md
+          - CH-T2-01 Login Admin: challenges/tier-2/login-admin.md
       - Tier 3 (3-Star Advanced): challenges/tier-3/index.md
       - Tier 4 (4-Star Complex): challenges/tier-4/index.md
       - Tier 5 (5-Star Hard): challenges/tier-5/index.md

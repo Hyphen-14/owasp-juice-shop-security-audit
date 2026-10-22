@@ -83,3 +83,4 @@ Content-Security-Policy: frame-src 'self' https://w.soundcloud.com;
 - **OWASP Top 10:2021:** [A03:2021 - Injection](https://owasp.org/Top10/A03_2021-Injection/)
 - **CWE Definition:** [CWE-79: Cross-Site Scripting](https://cwe.mitre.org/data/definitions/79.html)
 - **MDN Web Docs:** [Content Security Policy: frame-src](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Security-Policy/frame-src)
+
